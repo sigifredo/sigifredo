@@ -2,7 +2,7 @@
 
 I'm a passionate developer from Colombia, currently pursuing a PhD
 
-<p>
+<p align="center" style="margin: 2em 0;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="/assets/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
     </a>
@@ -26,6 +26,6 @@ I'm a passionate developer from Colombia, currently pursuing a PhD
     </a>
 </p>
 
-<p>
+<p align="center" style="margin: 2em 0;">
   <img style="display:block; margin: 1em auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sigifredo&show_icons=true&locale=en&layout=compact" alt="sigifredo" />
 </p>
