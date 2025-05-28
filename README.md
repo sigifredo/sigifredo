@@ -1,6 +1,6 @@
-# Hi 👋, I'm Siegfried
+<h1 align="center">Hi 👋, I'm Siegfried</h1>
 
-I'm a passionate developer from Colombia, currently pursuing a PhD
+<p align="center">I'm a passionate developer from Colombia, currently pursuing a PhD</p>
 
 <p align="center" style="margin: 2em 0;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
