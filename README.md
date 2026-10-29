@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siegfried</h1>
+<h1 align="center">Hi 👋, I'm sigifredo</h1>
 <p align="center">I'm a passionate developer from Colombia, currently pursuing a PhD</p>
 <p align="center" style="margin: 2em 0;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
